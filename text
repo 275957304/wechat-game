@@ -1,4 +1,6 @@
 https://developers.weixin.qq.com/minigame/dev/tutorial/adapter.html?t=20171229
+https://developers.weixin.qq.com/minigame/dev/index.html
+
 源码分析
 
 （还是原汁原味的打飞机游戏呀！）通过阅读这个源代码我们便可以知道如何进行小游戏的开发了。废话少说直接进入主题，先来分析一波源码的整体结构。
